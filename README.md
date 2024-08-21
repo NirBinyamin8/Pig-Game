@@ -18,7 +18,7 @@
 
 ## Demo
 
-You can try the game live [here]([#](https://pig-game-v2.netlify.app/)).
+You can try the game live [[here](https://pig-game-v2.netlify.app/)].
 
 ## How to Play
 
